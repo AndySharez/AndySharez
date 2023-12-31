@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Germany.
 
 - :telescope: I’m working as a DevOps Engineer and contributing to the server side backend for building web applications.
 
