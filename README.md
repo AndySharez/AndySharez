@@ -31,7 +31,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :zap: In my free time, I learn new languages
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/anbau))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-anbau-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anbau)
 
 <!--
 **AndySharez/AndySharez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
