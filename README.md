@@ -23,9 +23,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Germany.
+I am a beginning Developer from Germany.
 
-- :telescope: I’m working as a DevOps Engineer and am contributing to the server side backend for building web applications.
+- :telescope: I’m learning pyhton & C at the moment; I used to develop/ customize websites & PWAs.
 
 - :seedling: Exploring Technical Content Writing.
 
