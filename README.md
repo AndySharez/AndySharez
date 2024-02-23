@@ -27,7 +27,7 @@ I am a beginning Developer from Germany.
 
 - :telescope: I’m learning python & C; I used to develop or customize websites & PWAs by using PHP, html & css.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring hardware building, regarding PCs & Displays. Goal is to create my own home-setup automated by python.
 
 - :zap: In my free time, I do cross-sport or cycling.
 
