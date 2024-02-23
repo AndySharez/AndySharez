@@ -29,7 +29,7 @@ I am a beginning Developer from Germany.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I learn new languages.
+- :zap: In my free time, I do cross-sport or cycling.
 
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-anbau-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anbau)
   [![Twitter Badge](https://img.shields.io/badge/--blue?style=flat&logo=Twitter&logoColor=white)]()
