@@ -25,7 +25,7 @@
 
 I am a beginning Developer from Germany.
 
-- :telescope: I’m learning pyhton & C; I used to develop or customize websites & PWAs by using PHP, html & css.
+- :telescope: I’m learning python & C; I used to develop or customize websites & PWAs by using PHP, html & css.
 
 - :seedling: Exploring Technical Content Writing.
 
