@@ -32,7 +32,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - :zap: In my free time, I learn new languages.
 
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-anbau-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anbau)
-  [![Twitter Badge](https://img.shields.io/badge/-AndyStartUp-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/AndyStartUp)
+  [![Twitter Badge](https://img.shields.io/badge/-AndyStartUp-blue?style=flat&logo=Twitter&logoColor=white)]()
 
 ---
 
