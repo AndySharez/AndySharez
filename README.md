@@ -51,7 +51,7 @@ I am a beginning Developer from Germany.
 
 ---
 
-### :atom: Language stats:
+### 🔮 Language stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andysharez)](https://github.com/andysharez/github-readme-stats)
 
