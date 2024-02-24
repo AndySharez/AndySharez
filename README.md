@@ -50,7 +50,7 @@ I am a beginning Developer from Germany.
 </div>
 
 
-### Languages stats:
+### ⚛️ Language stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andysharez)](https://github.com/andysharez/github-readme-stats)
 
