@@ -21,7 +21,7 @@
 
 ---
 
-### :man_technologist: About Me:
+### 🚴‍♂️ About Me:
 
 I am a beginning Developer from Germany.
 
@@ -36,7 +36,7 @@ I am a beginning Developer from Germany.
 
 ---
 
-### :hammer_and_wrench: Tools:
+### :hammer_and_wrench: Languages & Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
