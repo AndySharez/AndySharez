@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/anbau">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="https://twitter.com/DgtlDev">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -32,7 +32,7 @@ I am a beginning Developer from Germany.
 - :zap: In my free time, I do cross-sport or cycling.
 
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-anbau-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anbau)
-  [![Twitter Badge](https://img.shields.io/badge/-404-blue?style=flat&logo=Twitter&logoColor=white)]()
+  [![Twitter Badge](https://img.shields.io/badge/-DgtlDev-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/DgtlDev)
 
 ---
 
