@@ -18,9 +18,9 @@
 
  🧮 I am a beginning Developer from Germany.
 
- :telescope: I’m learning python & C at the moment.
+ :telescope: I’m learning python & C at the moment; have some knowhow in php as well.
 
- :seedling: Exploring hardware building; goal is to create my own home-setup automated by python; have some knowhow in php as well.
+ :seedling: Exploring hardware building; goal is to create my own home-setup automated by python.
 
  :zap: In my free time, I do cross-sport or cycling.
 
