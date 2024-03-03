@@ -18,13 +18,13 @@
 
 I am a beginning Developer from Germany.
 
-- :telescope: I’m learning python & C; I used to develop or customize websites by using PHP, html & css / PWA tools.
+ :telescope: I’m learning python & C; I used to develop or customize websites by using PHP, html & css / PWA tools.
 
-- :seedling: Exploring hardware building; goal is to create my own home-setup automated by python.
+ :seedling: Exploring hardware building; goal is to create my own home-setup automated by python.
 
-- :zap: In my free time, I do cross-sport or cycling.
+ :zap: In my free time, I do cross-sport or cycling.
 
-- :mailbox: How to reach me:   [![Twitter Badge](https://img.shields.io/badge/-DgtlDev-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/DgtlDev)
+ :mailbox: How to reach me:   [![Twitter Badge](https://img.shields.io/badge/-DgtlDev-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/DgtlDev)
 
 ---
 
