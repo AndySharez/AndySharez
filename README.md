@@ -22,7 +22,7 @@
 
  :seedling: Exploring hardware building; goal is to create my own home-setup automated by python.
 
- :zap: In my free time, I do cross-sport or cycling, upgrading my engl. skills, outdoor activities etc. 
+ :zap: In my free time, I do cross-sport or cycling, upgrading my engl. skills, do outdoor activities etc. 
 
  :mailbox: How to reach me:   [![Twitter Badge](https://img.shields.io/badge/-DgtlDev-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/DgtlDev)
 
