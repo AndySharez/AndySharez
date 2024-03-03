@@ -20,7 +20,7 @@
 
  :telescope: I’m learning python & C at the moment.
 
- :seedling: Exploring hardware building; goal is to create my own home-setup automated by python.
+ :seedling: Exploring hardware building; goal is to create my own home-setup automated by python; have some knowhow in php as well.
 
  :zap: In my free time, I do cross-sport or cycling.
 
