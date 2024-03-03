@@ -4,9 +4,7 @@
 
   <div id="badges">
   
-</div>
-    <img src="https://komarev.com/ghpvc/?username=AndySharez&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 <h3> 
  <div align="center" >
@@ -48,6 +46,13 @@ I am a beginning Developer from Germany.
 ### 🔮 Language stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andysharez)](https://github.com/andysharez/github-readme-stats)
+
+
+
+</div>
+    <img src="https://komarev.com/ghpvc/?username=AndySharez&style=flat-square&color=blue" alt=""/>
+</div>
+
 
 <!--
 **AndySharez/AndySharez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
