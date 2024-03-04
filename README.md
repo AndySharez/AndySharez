@@ -14,9 +14,9 @@
 
 ---
 
-### 🚴‍♂️ About Me:
 
- ✈️ I am a beginning Developer from Germany.
+
+ 🚴 I am a beginning Developer from Germany.
 
  :telescope: I’m learning python & C at the moment; have some php knowledge as well.
 
