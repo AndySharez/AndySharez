@@ -45,6 +45,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andysharez)](https://github.com/andysharez/github-readme-stats)
 
+---
+
+### New Style:
+
+![profile 3d light](./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only)
+![profile 3d dark](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+
+---
 
 
 </div>
