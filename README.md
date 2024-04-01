@@ -50,7 +50,7 @@
 ### New Style:
 
 ![profile 3d light](./profile-season-animate.svg#gh-light-mode-only)
-![profile 3d dark](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+![profile 3d dark](./profile-night-green.svg#gh-dark-mode-only)
 
 ---
 
