@@ -49,7 +49,7 @@
 
 ### New Style testing:
 
-![profile 3d dark](./profile-night-green.svg#gh-dark-mode-only)
+/* ![profile 3d dark](./profile-night-green.svg#gh-dark-mode-only) */
 
 ---
 
