@@ -18,7 +18,7 @@
 
  :telescope: I’m learning python & C at the moment; have some php knowledge as well.
 
- :seedling: Exploring hardware building; goal is to create my own home-setup automated by python.
+ :seedling: Exploring hardware; building my own E-ink display to use it as 2nd monitor.
 
  :zap: In my free time, I do cross-sport or cycling, upgrading my engl. skills, outdoor activities etc. 
 
