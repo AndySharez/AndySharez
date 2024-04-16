@@ -47,7 +47,7 @@
 
 ---
 
-<!--- ### New Style testing: --->
+<!--- ### New Style --->
 
 <!--- ![profile 3d dark](./profile-night-green.svg#gh-dark-mode-only) --->
 
