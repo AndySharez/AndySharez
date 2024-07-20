@@ -22,7 +22,7 @@
 
  :zap: In my free time, I do cross-sport or cycling, upgrading my engl. skills, outdoor activities etc. 
 
- :mailbox: How to reach me:   [![Twitter Badge](https://img.shields.io/badge/-DgtlDev-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/DgtlDev)
+ :mailbox: How to reach me:   [![Twitter Badge](https://img.shields.io/badge/--blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com)
 
 ---
 
