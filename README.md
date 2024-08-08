@@ -22,7 +22,7 @@
 
  :zap: In my free time, I do cross-sport or cycling, upgrading my engl. skills, outdoor activities etc. 
 
- :mailbox: How to reach me:   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/anbau)
+ :mailbox: How to reach me:   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/anbau)
 
 ---
 
