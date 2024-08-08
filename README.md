@@ -16,7 +16,7 @@
 
  🚴 I am a beginning Developer from Germany.
 
- :telescope: I’m learning python & C at the moment; have some php knowledge as well.
+ :telescope: At the moment I’m learning python & C; have some php knowledge as well.
 
  :seedling: Exploring hardware; building my own E-ink display to use it as 2nd monitor.
 
