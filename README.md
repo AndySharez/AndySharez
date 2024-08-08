@@ -20,7 +20,7 @@
 
  :seedling: Exploring hardware; building my own E-ink display to use it as 2nd monitor.
 
- :zap: In my free time, I do cross-sport or cycling, upgrading my engl. skills, outdoor activities etc. 
+ :zap: In my free time, I do cross-sport or cycling, upgrading my engl. skills, outdoor activities and much more.
 
  :mailbox: How to reach me:   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/anbau)
 
