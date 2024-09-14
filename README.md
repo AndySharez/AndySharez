@@ -14,7 +14,7 @@
 
 ---
 
- 🚴 I am a beginning Developer from Germany.
+ 🚴 I am a beginning Developer & cyclists.
 
  :telescope: At the moment I’m learning python & C; have some php knowledge as well.
 
