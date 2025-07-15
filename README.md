@@ -14,7 +14,7 @@
 
 ---
 
- 🚴 I am a beginning Developer & cyclists.
+ 🚴 I am a beginning developer & like to cycle.
 
  :telescope: At the moment I’m learning python & C; have some php knowledge as well.
 
